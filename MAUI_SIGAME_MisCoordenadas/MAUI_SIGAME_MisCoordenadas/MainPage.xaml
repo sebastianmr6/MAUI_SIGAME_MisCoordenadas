@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI_SIGAME_MisCoordenadas.MainPage">
+
+    <StackLayout>
+        <Label Text="Hola Mundo" 
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand" 
+                FontSize="24" />
+        <Label x:Name="LabelCoordenadas" 
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand" 
+                FontSize="Body" />
+        <Button Text="Actualizar coordenada"
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"
+                Clicked="UpdatedCoordinatesClicked" />
+        <Button Text="Capturar Coordenada" 
+                HorizontalOptions="Center" 
+                VerticalOptions="CenterAndExpand"
+                Clicked="OnGetCoordinatesClicked" />
+
+    </StackLayout>
+
+</ContentPage>

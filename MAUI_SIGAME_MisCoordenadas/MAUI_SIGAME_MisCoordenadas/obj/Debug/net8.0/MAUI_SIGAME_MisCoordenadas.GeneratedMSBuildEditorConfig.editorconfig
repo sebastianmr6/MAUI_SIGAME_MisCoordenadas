@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAUI_SIGAME_MisCoordenadas
+build_property.ProjectDir = /Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/Views/MySities.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_SIGAME_MisCoordenadas.Views.MySities.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/MySities.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/MySities.xaml

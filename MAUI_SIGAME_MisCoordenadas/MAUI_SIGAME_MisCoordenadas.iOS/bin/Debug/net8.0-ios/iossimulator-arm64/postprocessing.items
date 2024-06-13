@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MAUI_SIGAME_MisCoordenadas.iOS.app/MAUI_SIGAME_MisCoordenadas.iOS">
+      <BCSymbolMapName>MAUI_SIGAME_MisCoordenadas.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MAUI_SIGAME_MisCoordenadas.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas.iOS/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MAUI_SIGAME_MisCoordenadas.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/sebastian/Projects/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas/MAUI_SIGAME_MisCoordenadas.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
