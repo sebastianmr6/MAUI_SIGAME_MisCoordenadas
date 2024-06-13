@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAUI_SIGAME_MisCoordenadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d28029d5bd4d16ff5e43ed64a3db2601ad16e44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAUI_SIGAME_MisCoordenadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAUI_SIGAME_MisCoordenadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
